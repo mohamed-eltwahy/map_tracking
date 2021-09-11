@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784154433179",
+    "project_id": "maptracking-f3214",
+    "storage_bucket": "maptracking-f3214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784154433179:android:e8f16c579f1bd81fbdd83e",
+        "android_client_info": {
+          "package_name": "com.example.map_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784154433179-0ngkt1hkh22evbsqq4o000elfep8aqnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASiEU4NPJ4kRgXy0P7SaTN3cV9rCG4sOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784154433179-0ngkt1hkh22evbsqq4o000elfep8aqnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
