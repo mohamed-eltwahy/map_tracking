@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         deleget_id: 1,
         main_place: LatLng(31.417540, 31.814444),
         order_id: 1,
-        isClientVersion: true,
+        isClientVersion: false,
       ),
     );
   }

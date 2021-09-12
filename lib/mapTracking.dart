@@ -31,7 +31,9 @@ class MapTracking extends StatefulWidget {
 class _MapTrackingState extends State<MapTracking> {
   FlutterTts flutterTts = FlutterTts();
 
-  final databaseReference = FirebaseDatabase().reference();
+  final databaseReference = FirebaseDatabase(databaseURL: 'https://maptracking-f3214-default-rtdb.firebaseio.com/').reference(
+    
+  );
 
   Completer<GoogleMapController> _controller = Completer();
   Location _location = Location();
